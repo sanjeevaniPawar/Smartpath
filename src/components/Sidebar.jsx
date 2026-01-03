@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { Search, Filter, Warehouse, Coffee, Utensils, Zap, ChevronDown, Check } from 'lucide-react';
+import { Search, Filter, Warehouse, Coffee, Utensils, Zap, ChevronDown, Check, Accessibility } from 'lucide-react';
 
 const Sidebar = () => {
     const [filtersOpen, setFiltersOpen] = useState(true);
